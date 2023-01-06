@@ -1,1 +1,1 @@
-# hotel-starter
+# Hotel-Booking APP
